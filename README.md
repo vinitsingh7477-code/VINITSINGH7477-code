@@ -40,15 +40,7 @@ Currently looking for a **software engineering internship** where I can contribu
 
 ## Projects
 
-### [generational](https://github.com/vinitsingh7477-code/generational)
-TypeScript · *A code generation tool built for developers*
-> What problem does it solve? Add 1–2 sentences here. What can someone do with it in 30 seconds?
 
-### [mlops-monitor-landing](https://github.com/vinitsingh7477-code/mlops-monitor-landing)
-HTML · *Landing page for an MLOps monitoring tool*
-> Who is this for? What does the product do? Link the live site if deployed.
-
----
 
 ## GitHub activity
 
